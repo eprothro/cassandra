@@ -5,7 +5,9 @@ In fact, this repository is a GitHub mirror of [the official repo](https://git-w
 
 # How to Contribute
 
-Use [Cassandra JIRA](https://issues.apache.org/jira/browse/CASSANDRA/) to create an issue, then either attach a patch or post a link to a GitHub branch with your changes.
+Change workflow is managed in [Cassandra JIRA](https://issues.apache.org/jira/browse/CASSANDRA/).
+
+Read about [contributing code changes](http://cassandra.apache.org/doc/latest/development/patches.html) in the official documentation.
 
 # Useful Links
 
